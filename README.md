@@ -126,6 +126,6 @@ The backslash ( \ ) in a regex escapes a character. For example, we know the ope
 
 ## Author
 
-Wesley Taylor is an aspiring web developer from Charlotte, NC. He is also a registered inventor, entrepreneur, and Captain in the North Carolina Air National Guard.
+Wesley Taylor is an aspiring Full-Stack Developer from Charlotte, NC. He is also a registered inventor, entrepreneur, and Captain in the North Carolina Air National Guard.
 
 GitHub Link: https://github.com/wstaylor27
